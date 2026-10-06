@@ -69,10 +69,9 @@ A SaaS platform for creating and managing AI-powered digital humans on business 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Crazysenuuu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=Crazysenuuu&theme=dark&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=senirualuthge&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=senirualuthge&theme=dark&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=senirualuthge&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 <p align="center">
