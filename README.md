@@ -1,84 +1,388 @@
-# Hi, I'm Seniru Aluthge 👋
+<!--
+  SENIRU ALUTHGE — GITHUB PROFILE README
+  Repository: senirualuthge/senirualuthge
 
-Software developer and student at the **Institute of Computer Engineering Technology (ICET)**, Sri Lanka. I build intelligent software systems — from full-stack web applications to AI-powered digital humans.
+  BANNER SETUP:
+  Upload your custom banner to assets/profile-banner.png.
+  Then uncomment the banner image below.
 
-Most of my time goes into agentic AI architectures, scalable backend services, and the occasional hardware + software experiment.
+  PROJECT SCREENSHOTS:
+  Add genuine screenshots to assets/projects/ and update the image paths.
+-->
 
----
+<div align="center">
 
-## 🚀 Current Projects
+<!-- Uncomment after uploading assets/profile-banner.png -->
+<!-- <img src="assets/profile-banner.png" width="100%" alt="Seniru Aluthge — Developer Portfolio Banner" /> -->
 
-### 🤖 Aariya
-A multi-surface AI companion:
-- FastAPI cognitive backend
-- React + Three.js desktop interface
-- Flutter mobile application
-- Long-term memory and autonomous reasoning
-- Real-time voice conversation
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=7C3AED" width="100%" alt="" />
 
-### 🌐 HUMANA
-A SaaS platform for creating and managing AI-powered digital humans on business websites, built on scalable cloud infrastructure.
+<br/>
 
----
+# SENIRU ALUTHGE
 
-## 💻 Tech Stack
+### `FULL-STACK DEVELOPMENT` · `AI SYSTEMS` · `SOFTWARE ENGINEERING`
 
-**Languages**
+**Building ideas into software. Exploring the systems behind intelligence.**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+Undergraduate student at the Institute of Computer Engineering Technology (ICET), Sri Lanka.
 
-**Frameworks & Runtimes**
+<br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<a href="https://github.com/senirualuthge">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/senirualuthge?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
 
-**AI & Data**
+<br/><br/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+`LEARN` &nbsp; / &nbsp; `BUILD` &nbsp; / &nbsp; `EXPERIMENT` &nbsp; / &nbsp; `IMPROVE`
 
-**Databases**
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## 01 / About Me
 
-- Multi-agent AI systems
-- LLM infrastructure
-- Distributed backend architecture
-- Digital human technologies
-- High-performance AI inference
+I'm an undergraduate developer interested in building practical software, exploring AI systems, and understanding how complex applications work under the hood.
 
----
+My approach is simple: learn the fundamentals, experiment with real projects, solve problems, and improve through implementation.
 
-## 📊 GitHub Stats
+- **Focus:** Full-stack development, AI systems, and backend engineering
+- **Exploring:** Agentic AI, conversational intelligence, and real-time applications
+- **Building:** Independent software projects across AI and business SaaS
+- **Interested in:** System architecture, developer tools, and practical problem-solving
+- **Based in:** Sri Lanka
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senirualuthge&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="Seniru's GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=senirualuthge&theme=dark&hide_border=true" alt="Seniru's GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senirualuthge&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Seniru's top languages" />
-</p>
+I believe the best way to learn software engineering is to build, test, debug, and continuously improve real systems.
 
 ---
 
-<p align="center">
-<i>Always happy to chat about AI, software architecture, open-source projects, or tricky Java bugs.</i>
-</p>
+## 02 / Featured Projects
+
+<div align="center">
+
+### PROJECT LAB
+
+*Three independent projects. Different problems. One continuous learning journey.*
+
+</div>
+
+<a id="aariya"></a>
+
+### 01 — AARIYA
+
+**Multi-Surface AI Companion**
+
+An AI companion project focused on natural conversation, contextual understanding, and interaction across desktop and mobile surfaces.
+
+| Component | Technology / Focus |
+|:--|:--|
+| Cognitive backend | Python · FastAPI |
+| Desktop interface | React · Three.js |
+| Mobile client | Flutter |
+| Intelligence | Conversational context · Memory · Reasoning |
+| Interaction | Real-time voice and conversational experience |
+
+**Development focus**
+
+- Designing a modular AI backend and conversation pipeline.
+- Exploring contextual memory and reasoning.
+- Connecting desktop and mobile interfaces to the AI core.
+- Developing more natural, continuous voice interactions.
+
+**Architecture**
+
+```mermaid
+flowchart TD
+    U([User])
+    subgraph CLIENTS["CLIENT APPLICATIONS"]
+        W["React + Three.js"]
+        M["Flutter Mobile"]
+    end
+    subgraph CORE["AARIYA AI CORE"]
+        API["FastAPI Backend"]
+        C["Conversation Processing"]
+        MEM["Context and Memory"]
+        AI["Reasoning and Response"]
+    end
+    U --> W
+    U --> M
+    W <--> API
+    M <--> API
+    API --> C
+    C <--> MEM
+    C --> AI
+    AI --> API
+    style U fill:#18181b,stroke:#7c3aed,color:#fff
+    style W fill:#18181b,stroke:#06b6d4,color:#fff
+    style M fill:#18181b,stroke:#06b6d4,color:#fff
+    style API fill:#18181b,stroke:#7c3aed,color:#fff
+    style C fill:#18181b,stroke:#7c3aed,color:#fff
+    style MEM fill:#18181b,stroke:#06b6d4,color:#fff
+    style AI fill:#18181b,stroke:#7c3aed,color:#fff
+```
+
+<details>
+<summary><b>View Aariya project showcase details</b></summary>
+
+**Areas of exploration**
+
+- AI core and backend architecture
+- Conversation context and long-term memory
+- Voice processing and response generation
+- Desktop/mobile integration
+- Real-time communication between components
+
+**Screenshots**
+
+Add genuine screenshots of the Aariya interface, mobile app, or architecture to your repository.
+
+Suggested image paths:
+
+- `assets/projects/aariya-desktop.png`
+- `assets/projects/aariya-mobile.png`
+- `assets/projects/aariya-architecture.png`
+
+</details>
+
+**Repository:** Add the public repository link here when available.
+
+---
+
+<a id="humana"></a>
+
+### 02 — HUMANA
+
+**AI-Powered Digital Human Platform**
+
+A SaaS platform concept for integrating AI-powered digital humans into business websites, with a focus on interactive customer experiences and reusable integrations.
+
+**Product direction**
+
+- Embeddable AI experiences for business websites
+- Conversational interfaces for website visitors
+- Integration-friendly application architecture
+- Backend services designed around business use cases
+
+**Conceptual architecture**
+
+```mermaid
+flowchart TD
+    V([Website Visitor])
+    subgraph WEB["BUSINESS WEBSITE"]
+        EMB["Embedded AI Experience"]
+        UI["Interactive Interface"]
+    end
+    subgraph HUMANA["HUMANA PLATFORM"]
+        G["Integration Layer"]
+        S["Backend Services"]
+        AI["AI Conversation Engine"]
+    end
+    V --> UI
+    UI --> EMB
+    EMB <--> G
+    G <--> S
+    S <--> AI
+    style V fill:#18181b,stroke:#06b6d4,color:#fff
+    style EMB fill:#18181b,stroke:#7c3aed,color:#fff
+    style UI fill:#18181b,stroke:#7c3aed,color:#fff
+    style G fill:#18181b,stroke:#06b6d4,color:#fff
+    style S fill:#18181b,stroke:#7c3aed,color:#fff
+    style AI fill:#18181b,stroke:#06b6d4,color:#fff
+```
+
+<details>
+<summary><b>View HUMANA project showcase details</b></summary>
+
+**Areas of exploration**
+
+- AI-powered website experiences
+- Reusable integration patterns
+- Conversational interfaces
+- SaaS product architecture
+- Business-oriented application design
+
+**Screenshots**
+
+Suggested image paths:
+
+- `assets/projects/humana-concept.png`
+- `assets/projects/humana-interface.png`
+- `assets/projects/humana-architecture.png`
+
+Use actual implementation screenshots where available. Label concept designs as concepts rather than finished product features.
+
+</details>
+
+**Repository:** Add the public repository link here when available.
+
+---
+
+<a id="agreement-platform"></a>
+
+### 03 — AGREEMENT MANAGEMENT PLATFORM
+
+**Digital Agreement Lifecycle SaaS**
+
+A standalone SaaS project designed to help businesses manage agreements throughout their lifecycle, from drafting and negotiation to approval, signing, renewal, and termination.
+
+**Core product requirements**
+
+- Agreement creation and review
+- Structured lawyer-assisted negotiation
+- Agreement-specific permissions for parties and authorized participants
+- Version history and clause-level change tracking
+- Multi-party review and approval workflows
+- Signing, renewal, modification, and termination workflows
+- Lifecycle notifications and agreement history
+
+**Conceptual architecture**
+
+```mermaid
+flowchart TD
+    P["Agreement Parties"]
+    L["Authorized Lawyers"]
+    subgraph APP["AGREEMENT PLATFORM"]
+        AUTH["Authentication and Access Control"]
+        DOC["Agreement Workspace"]
+        VER["Version and Clause Tracking"]
+        WF["Review and Approval Workflow"]
+        LIFE["Lifecycle Management"]
+    end
+    STORE[("Agreement Data and History")]
+    P --> AUTH
+    L --> AUTH
+    AUTH --> DOC
+    DOC <--> VER
+    DOC --> WF
+    WF --> LIFE
+    DOC <--> STORE
+    VER <--> STORE
+    WF <--> STORE
+    LIFE <--> STORE
+    style P fill:#18181b,stroke:#06b6d4,color:#fff
+    style L fill:#18181b,stroke:#06b6d4,color:#fff
+    style AUTH fill:#18181b,stroke:#7c3aed,color:#fff
+    style DOC fill:#18181b,stroke:#7c3aed,color:#fff
+    style VER fill:#18181b,stroke:#06b6d4,color:#fff
+    style WF fill:#18181b,stroke:#7c3aed,color:#fff
+    style LIFE fill:#18181b,stroke:#06b6d4,color:#fff
+    style STORE fill:#18181b,stroke:#7c3aed,color:#fff
+```
+
+<details>
+<summary><b>View Agreement Platform project showcase details</b></summary>
+
+**Engineering priorities**
+
+- Enforce access boundaries at the backend, not just the user interface.
+- Preserve agreement versions and make clause changes traceable.
+- Require the relevant parties to approve revisions before progressing through negotiation.
+- Maintain an auditable agreement history.
+- Handle renewal and termination according to the agreement's configured terms.
+
+**Screenshots**
+
+Suggested image paths:
+
+- `assets/projects/agreement-dashboard.png`
+- `assets/projects/agreement-editor.png`
+- `assets/projects/agreement-diff.png`
+- `assets/projects/agreement-workflow.png`
+
+Use genuine screenshots from the current implementation when available.
+
+</details>
+
+**Repository:** Add the public repository link here when available.
+
+---
+
+## 03 / Technology Stack
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,php,cs,html&theme=dark" alt="Programming languages" />
+
+### FRAMEWORKS & INTERFACES
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,threejs,flutter,nodejs,dotnet&theme=dark" alt="Frameworks and interfaces" />
+
+### DATA & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,git,linux&theme=dark" alt="Databases and development tools" />
+
+</div>
+
+**Additional technologies of interest**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 04 / Current Learning Path
+
+| Area | Learning direction |
+|:--|:--|
+| AI engineering | Agentic systems, LLM integration, conversation pipelines |
+| Backend engineering | API design, modular services, system architecture |
+| Application development | Full-stack workflows and cross-platform applications |
+| Real-time systems | Streaming, voice interaction, client-server communication |
+| Software quality | Debugging, testing, security, and maintainability |
+
+*This section represents my learning direction, not a claim of mastery.*
+
+---
+
+## 05 / GitHub Analytics
+
+<div align="center">
+
+### ACTIVITY OVERVIEW
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senirualuthge&theme=github_dark" alt="GitHub contribution activity overview" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=senirualuthge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=22d3ee" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senirualuthge&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Most-used languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=senirualuthge&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 06 / Connect
+
+<div align="center">
+
+I'm interested in meeting developers, students, founders, and AI builders who enjoy learning, sharing ideas, and building useful software.
+
+<a href="https://github.com/senirualuthge">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+</a>
+
+<br/><br/>
+
+**Have an interesting project idea? Let's build something meaningful.**
+
+<br/>
+
+`CURIOUS BY DESIGN` &nbsp; · &nbsp; `BUILT THROUGH PRACTICE` &nbsp; · &nbsp; `ALWAYS LEARNING`
+
+</div>
+
+<!-- End of README -->
