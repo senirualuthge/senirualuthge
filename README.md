@@ -60,248 +60,7 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 ---
 
-## 02 / Featured Projects
-
-<div align="center">
-
-### PROJECT LAB
-
-*Three independent projects. Different problems. One continuous learning journey.*
-
-</div>
-
-<a id="aariya"></a>
-
-### 01 — AARIYA
-
-**Multi-Surface AI Companion**
-
-An AI companion project focused on natural conversation, contextual understanding, and interaction across desktop and mobile surfaces.
-
-| Component | Technology / Focus |
-|:--|:--|
-| Cognitive backend | Python · FastAPI |
-| Desktop interface | React · Three.js |
-| Mobile client | Flutter |
-| Intelligence | Conversational context · Memory · Reasoning |
-| Interaction | Real-time voice and conversational experience |
-
-**Development focus**
-
-- Designing a modular AI backend and conversation pipeline.
-- Exploring contextual memory and reasoning.
-- Connecting desktop and mobile interfaces to the AI core.
-- Developing more natural, continuous voice interactions.
-
-**Architecture**
-
-```mermaid
-flowchart TD
-    U([User])
-    subgraph CLIENTS["CLIENT APPLICATIONS"]
-        W["React + Three.js"]
-        M["Flutter Mobile"]
-    end
-    subgraph CORE["AARIYA AI CORE"]
-        API["FastAPI Backend"]
-        C["Conversation Processing"]
-        MEM["Context and Memory"]
-        AI["Reasoning and Response"]
-    end
-    U --> W
-    U --> M
-    W <--> API
-    M <--> API
-    API --> C
-    C <--> MEM
-    C --> AI
-    AI --> API
-    style U fill:#18181b,stroke:#7c3aed,color:#fff
-    style W fill:#18181b,stroke:#06b6d4,color:#fff
-    style M fill:#18181b,stroke:#06b6d4,color:#fff
-    style API fill:#18181b,stroke:#7c3aed,color:#fff
-    style C fill:#18181b,stroke:#7c3aed,color:#fff
-    style MEM fill:#18181b,stroke:#06b6d4,color:#fff
-    style AI fill:#18181b,stroke:#7c3aed,color:#fff
-```
-
-<details>
-<summary><b>View Aariya project showcase details</b></summary>
-
-**Areas of exploration**
-
-- AI core and backend architecture
-- Conversation context and long-term memory
-- Voice processing and response generation
-- Desktop/mobile integration
-- Real-time communication between components
-
-**Screenshots**
-
-Add genuine screenshots of the Aariya interface, mobile app, or architecture to your repository.
-
-Suggested image paths:
-
-- `assets/projects/aariya-desktop.png`
-- `assets/projects/aariya-mobile.png`
-- `assets/projects/aariya-architecture.png`
-
-</details>
-
-**Repository:** Add the public repository link here when available.
-
----
-
-<a id="humana"></a>
-
-### 02 — HUMANA
-
-**AI-Powered Digital Human Platform**
-
-A SaaS platform concept for integrating AI-powered digital humans into business websites, with a focus on interactive customer experiences and reusable integrations.
-
-**Product direction**
-
-- Embeddable AI experiences for business websites
-- Conversational interfaces for website visitors
-- Integration-friendly application architecture
-- Backend services designed around business use cases
-
-**Conceptual architecture**
-
-```mermaid
-flowchart TD
-    V([Website Visitor])
-    subgraph WEB["BUSINESS WEBSITE"]
-        EMB["Embedded AI Experience"]
-        UI["Interactive Interface"]
-    end
-    subgraph HUMANA["HUMANA PLATFORM"]
-        G["Integration Layer"]
-        S["Backend Services"]
-        AI["AI Conversation Engine"]
-    end
-    V --> UI
-    UI --> EMB
-    EMB <--> G
-    G <--> S
-    S <--> AI
-    style V fill:#18181b,stroke:#06b6d4,color:#fff
-    style EMB fill:#18181b,stroke:#7c3aed,color:#fff
-    style UI fill:#18181b,stroke:#7c3aed,color:#fff
-    style G fill:#18181b,stroke:#06b6d4,color:#fff
-    style S fill:#18181b,stroke:#7c3aed,color:#fff
-    style AI fill:#18181b,stroke:#06b6d4,color:#fff
-```
-
-<details>
-<summary><b>View HUMANA project showcase details</b></summary>
-
-**Areas of exploration**
-
-- AI-powered website experiences
-- Reusable integration patterns
-- Conversational interfaces
-- SaaS product architecture
-- Business-oriented application design
-
-**Screenshots**
-
-Suggested image paths:
-
-- `assets/projects/humana-concept.png`
-- `assets/projects/humana-interface.png`
-- `assets/projects/humana-architecture.png`
-
-Use actual implementation screenshots where available. Label concept designs as concepts rather than finished product features.
-
-</details>
-
-**Repository:** Add the public repository link here when available.
-
----
-
-<a id="agreement-platform"></a>
-
-### 03 — AGREEMENT MANAGEMENT PLATFORM
-
-**Digital Agreement Lifecycle SaaS**
-
-A standalone SaaS project designed to help businesses manage agreements throughout their lifecycle, from drafting and negotiation to approval, signing, renewal, and termination.
-
-**Core product requirements**
-
-- Agreement creation and review
-- Structured lawyer-assisted negotiation
-- Agreement-specific permissions for parties and authorized participants
-- Version history and clause-level change tracking
-- Multi-party review and approval workflows
-- Signing, renewal, modification, and termination workflows
-- Lifecycle notifications and agreement history
-
-**Conceptual architecture**
-
-```mermaid
-flowchart TD
-    P["Agreement Parties"]
-    L["Authorized Lawyers"]
-    subgraph APP["AGREEMENT PLATFORM"]
-        AUTH["Authentication and Access Control"]
-        DOC["Agreement Workspace"]
-        VER["Version and Clause Tracking"]
-        WF["Review and Approval Workflow"]
-        LIFE["Lifecycle Management"]
-    end
-    STORE[("Agreement Data and History")]
-    P --> AUTH
-    L --> AUTH
-    AUTH --> DOC
-    DOC <--> VER
-    DOC --> WF
-    WF --> LIFE
-    DOC <--> STORE
-    VER <--> STORE
-    WF <--> STORE
-    LIFE <--> STORE
-    style P fill:#18181b,stroke:#06b6d4,color:#fff
-    style L fill:#18181b,stroke:#06b6d4,color:#fff
-    style AUTH fill:#18181b,stroke:#7c3aed,color:#fff
-    style DOC fill:#18181b,stroke:#7c3aed,color:#fff
-    style VER fill:#18181b,stroke:#06b6d4,color:#fff
-    style WF fill:#18181b,stroke:#7c3aed,color:#fff
-    style LIFE fill:#18181b,stroke:#06b6d4,color:#fff
-    style STORE fill:#18181b,stroke:#7c3aed,color:#fff
-```
-
-<details>
-<summary><b>View Agreement Platform project showcase details</b></summary>
-
-**Engineering priorities**
-
-- Enforce access boundaries at the backend, not just the user interface.
-- Preserve agreement versions and make clause changes traceable.
-- Require the relevant parties to approve revisions before progressing through negotiation.
-- Maintain an auditable agreement history.
-- Handle renewal and termination according to the agreement's configured terms.
-
-**Screenshots**
-
-Suggested image paths:
-
-- `assets/projects/agreement-dashboard.png`
-- `assets/projects/agreement-editor.png`
-- `assets/projects/agreement-diff.png`
-- `assets/projects/agreement-workflow.png`
-
-Use genuine screenshots from the current implementation when available.
-
-</details>
-
-**Repository:** Add the public repository link here when available.
-
----
-
-## 03 / Technology Stack
+## 02 / Technology Stack
 
 <div align="center">
 
@@ -329,7 +88,7 @@ Use genuine screenshots from the current implementation when available.
 
 ---
 
-## 04 / Current Learning Path
+## 03 / Current Learning Path
 
 | Area | Learning direction |
 |:--|:--|
@@ -343,7 +102,7 @@ Use genuine screenshots from the current implementation when available.
 
 ---
 
-## 05 / GitHub Analytics
+## 04 / GitHub Analytics
 
 <div align="center">
 
@@ -365,7 +124,7 @@ Use genuine screenshots from the current implementation when available.
 
 ---
 
-## 06 / Connect
+## 05 / Connect
 
 <div align="center">
 
