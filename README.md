@@ -21,7 +21,7 @@
 
 # SENIRU ALUTHGE
 
-### `FULL-STACK DEVELOPMENT` · `AI SYSTEMS` · `SOFTWARE ENGINEERING`
+
 
 **Building ideas into software. Exploring the systems behind intelligence.**
 
