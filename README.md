@@ -108,7 +108,7 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 ### ACTIVITY OVERVIEW
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senirualuthge&theme=github_dark" alt="GitHub contribution activity overview" />
+<img width="100%" src="https://ghchart.rshah.org/8b5cf6/senirualuthge" alt="GitHub contribution activity calendar" />
 
 <br/>
 
