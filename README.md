@@ -69,9 +69,14 @@ A SaaS platform for creating and managing AI-powered digital humans on business 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=senirualuthge&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=senirualuthge&theme=dark&hide_border=true&v=2)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=senirualuthge&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=senirualuthge&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="Seniru's GitHub stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=senirualuthge&theme=dark&hide_border=true" alt="Seniru's GitHub streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senirualuthge&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Seniru's top languages" />
+</p>
+
 ---
 
 <p align="center">
