@@ -29,14 +29,7 @@ Undergraduate student at the Institute of Computer Engineering Technology (ICET)
 
 <br/>
 
-<a href="https://github.com/senirualuthge">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://github.com/senirualuthge?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
 
-<br/><br/>
 
 `LEARN` &nbsp; / &nbsp; `BUILD` &nbsp; / &nbsp; `EXPERIMENT` &nbsp; / &nbsp; `IMPROVE`
 
