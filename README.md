@@ -2,77 +2,72 @@
   SENIRU ALUTHGE — GITHUB PROFILE README
   Repository: senirualuthge/senirualuthge
 
-  BANNER SETUP:
-  Upload your custom banner to assets/profile-banner.png.
-  Then uncomment the banner image below.
-
-  PROJECT SCREENSHOTS:
-  Add genuine screenshots to assets/projects/ and update the image paths.
+  TODO:
+  - Upload assets/profile-banner.png, then uncomment the banner below.
+  - Add real screenshots to assets/projects/ and link them in the Projects table.
 -->
 
 <div align="center">
 
-<!-- Uncomment after uploading assets/profile-banner.png -->
 <!-- <img src="assets/profile-banner.png" width="100%" alt="Seniru Aluthge — Developer Portfolio Banner" /> -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=7C3AED" width="100%" alt="" />
-
-<br/>
-
-# SENIRU ALUTHGE
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,12,24&text=SENIRU%20ALUTHGE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%20Systems%20%C2%B7%20Sri%20Lanka&descSize=16&descAlignY=60" width="100%" alt="Seniru Aluthge" />
 
 **Building ideas into software. Exploring the systems behind intelligence.**
 
-Undergraduate student at the Institute of Computer Engineering Technology (ICET), Sri Lanka.
+Software developer and student at the Institute of Computer Engineering Technology (ICET), Sri Lanka.
 
-<br/>
+<a href="https://github.com/senirualuthge"><img src="https://img.shields.io/badge/GitHub-senirualuthge-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/seniru-aluthge-30bb33188"><img src="https://img.shields.io/badge/LinkedIn-Seniru%20Aluthge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-
-
-`LEARN` &nbsp; / &nbsp; `BUILD` &nbsp; / &nbsp; `EXPERIMENT` &nbsp; / &nbsp; `IMPROVE`
+`LEARN` &nbsp;/&nbsp; `BUILD` &nbsp;/&nbsp; `EXPERIMENT` &nbsp;/&nbsp; `IMPROVE`
 
 </div>
 
 ---
 
-## 01 / About Me
+## About
 
-I'm an undergraduate developer interested in building practical software, exploring AI systems, and understanding how complex applications work under the hood.
+I build practical software and explore how AI systems and complex applications work under the hood. My approach: learn the fundamentals, ship real projects, debug, and iterate.
 
-My approach is simple: learn the fundamentals, experiment with real projects, solve problems, and improve through implementation.
-
-- **Focus:** Full-stack development, AI systems, and backend engineering
-- **Exploring:** Agentic AI, conversational intelligence, and real-time applications
-- **Building:** Independent software projects across AI and business SaaS
-- **Interested in:** System architecture, developer tools, and practical problem-solving
-- **Based in:** Sri Lanka
-
-I believe the best way to learn software engineering is to build, test, debug, and continuously improve real systems.
+- **Focus:** Full-stack development, AI systems, backend engineering
+- **Exploring:** Agentic AI, conversational intelligence, real-time apps
+- **Building:** Independent projects across AI agents, business SaaS, and mobile
+- **Interested in:** System architecture, developer tools, practical problem-solving
 
 ---
 
-## 02 / Technology Stack
+## Featured Projects
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **Aariya** | Autonomous AI agent platform | Python, FastAPI |
+| **HUMANA** | SaaS for AI-powered digital human employees on business websites | AI, Web |
+| **Agreement Gen** | Sri Lanka-focused contract generation platform (CLM); MVP starts with the Mutual NDA | Python, Web |
+| **[FIFA Score Widget](https://github.com/senirualuthge/FiFA-Score-Widget)** | iOS app with a home-screen widget showing live World Cup scores via football-data.org | Swift, SwiftUI, WidgetKit |
+| **Second Brain** | Personal knowledge system: Obsidian vault with a Python indexing and search service | Python |
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-### LANGUAGES
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,php,cs,html&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,ts,java,swift,dart,cpp,cs,php,html&theme=dark" alt="Languages" />
 
-### FRAMEWORKS & INTERFACES
+**Frameworks & Interfaces**
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,threejs,flutter,nodejs,dotnet&theme=dark" alt="Frameworks and interfaces" />
+<img src="https://skillicons.dev/icons?i=fastapi,react,threejs,flutter,nodejs,dotnet&theme=dark" alt="Frameworks" />
 
-### DATA & INFRASTRUCTURE
+**Data & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,git,linux&theme=dark" alt="Databases and development tools" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,git,linux&theme=dark" alt="Data and tools" />
 
 </div>
 
-**Additional technologies of interest**
-
+**Also exploring:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -81,60 +76,43 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 ---
 
-## 03 / Current Learning Path
+## Learning Path
 
-| Area | Learning direction |
+| Area | Direction |
 |:--|:--|
 | AI engineering | Agentic systems, LLM integration, conversation pipelines |
-| Backend engineering | API design, modular services, system architecture |
-| Application development | Full-stack workflows and cross-platform applications |
-| Real-time systems | Streaming, voice interaction, client-server communication |
-| Software quality | Debugging, testing, security, and maintainability |
+| Backend | API design, modular services, system architecture |
+| Applications | Full-stack workflows, cross-platform apps |
+| Real-time | Streaming, voice interaction, client-server communication |
+| Quality | Debugging, testing, security, maintainability |
 
-*This section represents my learning direction, not a claim of mastery.*
+*A learning direction, not a claim of mastery.*
 
 ---
 
-## 04 / GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-### ACTIVITY OVERVIEW
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senirualuthge&theme=github_dark" alt="Activity overview" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senirualuthge&theme=github_dark" alt="GitHub contribution activity overview" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=senirualuthge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=22d3ee" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senirualuthge&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Top languages" />
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=senirualuthge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=22d3ee" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senirualuthge&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Most-used languages" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=senirualuthge&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=senirualuthge&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak" />
 
 </div>
 
 ---
 
-## 05 / Connect
+## Connect
 
 <div align="center">
 
-I'm interested in meeting developers, students, founders, and AI builders who enjoy learning, sharing ideas, and building useful software.
+I'd like to meet developers, students, founders, and AI builders who enjoy learning and shipping useful software.
 
-<a href="https://github.com/senirualuthge">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
-</a>
+**Have an interesting project idea? Let's build it.**
 
-<br/><br/>
-
-**Have an interesting project idea? Let's build something meaningful.**
-
-<br/>
-
-`CURIOUS BY DESIGN` &nbsp; · &nbsp; `BUILT THROUGH PRACTICE` &nbsp; · &nbsp; `ALWAYS LEARNING`
+`CURIOUS BY DESIGN` &nbsp;·&nbsp; `BUILT THROUGH PRACTICE` &nbsp;·&nbsp; `ALWAYS LEARNING`
 
 </div>
-
-<!-- End of README -->
