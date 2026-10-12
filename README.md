@@ -55,7 +55,7 @@ My approach is simple: learn the fundamentals, experiment with real projects, so
 - **Exploring:** Agentic AI, conversational intelligence, and real-time applications
 - **Building:** Independent software projects across AI and business SaaS
 - **Interested in:** System architecture, developer tools, and practical problem-solving
-- **Based in:** Sri Lanka
+- **Open to:** Internships, freelance work, and collaboration on AI and backend projects
 
 I believe the best way to learn software engineering is to build, test, debug, and continuously improve real systems.
 
