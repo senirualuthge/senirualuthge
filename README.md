@@ -1,151 +1,96 @@
-<!--
-  SENIRU ALUTHGE — GITHUB PROFILE README
-  Repository: senirualuthge/senirualuthge
+ <div align="center">
 
-  TODO:
-  - Upload assets/profile-banner.png, then uncomment the banner below.
-  - Add real screenshots to assets/projects/ and link them in the Projects table.
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:080D1A,50:30105E,100:00D9FF&text=SENIRU%20ALUTHGE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%C2%B7%20AI%20SYSTEMS&descSize=16&descAlignY=60" width="100%" alt="Seniru Aluthge — Developer Profile" />
 
-<div align="center">
+### Undergraduate Developer | AI Systems Explorer
 
-<!-- Uncomment after uploading assets/profile-banner.png -->
-<!-- <img src="assets/profile-banner.png" width="100%" alt="Seniru Aluthge — Developer Portfolio Banner" /> -->
+*Building ideas into real software. Learning, creating, and improving every day.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=7C3AED" width="100%" alt="" />
+<a href="https://github.com/senirualuthge"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/seniru-aluthge-30bb33188"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<br/>
-
-# SENIRU ALUTHGE
-
-**Building ideas into software. Exploring the systems behind intelligence.**
-
-Software Developer · AI Systems · Sri Lanka
-
-Undergraduate student at the Institute of Computer Engineering Technology (ICET), Sri Lanka.
-
-<br/>
-
-<a href="https://github.com/senirualuthge"><img src="https://img.shields.io/badge/GitHub-senirualuthge-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/seniru-aluthge-30bb33188"><img src="https://img.shields.io/badge/LinkedIn-Seniru%20Aluthge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<br/><br/>
-
-`LEARN` &nbsp;/&nbsp; `BUILD` &nbsp;/&nbsp; `EXPERIMENT` &nbsp;/&nbsp; `IMPROVE`
+`LEARN` &nbsp; · &nbsp; `BUILD` &nbsp; · &nbsp; `EXPERIMENT` &nbsp; · &nbsp; `IMPROVE`
 
 </div>
 
 ---
 
-## 01 / About Me
+## `$ whoami`
 
-I'm an undergraduate developer interested in building practical software, exploring AI systems, and understanding how complex applications work under the hood.
+I'm Seniru Aluthge, an undergraduate student at the Institute of Computer Engineering Technology (ICET), Sri Lanka, interested in software development, artificial intelligence, and building practical applications.
 
-My approach is simple: learn the fundamentals, experiment with real projects, solve problems, and improve through implementation.
+I learn by exploring new technologies, understanding how systems work under the hood, solving problems, and improving through hands-on development.
 
-- **Focus:** Full-stack development, AI systems, and backend engineering
-- **Exploring:** Agentic AI, conversational intelligence, and real-time applications
-- **Building:** Independent software projects across AI and business SaaS
-- **Interested in:** System architecture, developer tools, and practical problem-solving
-- **Based in:** Sri Lanka
+My goal is to strengthen my engineering fundamentals, develop reliable software, and grow into an engineer capable of turning ideas into useful products.
 
-I believe the best way to learn software engineering is to build, test, debug, and continuously improve real systems.
+## `$ current_focus`
 
----
+- **Full-Stack Development** — Learning to build complete applications across frontend and backend systems.
+- **AI Systems** — Exploring intelligent agents, conversational systems, and AI application development.
+- **Backend Engineering** — Developing my understanding of APIs, databases, authentication, and system design.
+- **Software Architecture** — Learning how to organize, connect, and maintain complex applications.
+- **Continuous Learning** — Strengthening fundamentals through experimentation, debugging, and practical problem-solving.
 
-## 02 / Featured Projects
-
-| Project | What it is | Stack |
-|:--|:--|:--|
-| **Aariya** | Autonomous AI agent platform | Python, FastAPI |
-| **HUMANA** | SaaS for AI-powered digital human employees on business websites | AI, Web |
-| **Agreement Gen** | Sri Lanka-focused contract generation platform (CLM); MVP starts with the Mutual NDA | Python, Web |
-| **[FIFA Score Widget](https://github.com/senirualuthge/FiFA-Score-Widget)** | iOS app with a home-screen widget showing live World Cup scores via football-data.org | Swift, SwiftUI, WidgetKit |
-| **Second Brain** | Personal knowledge system: Obsidian vault with a Python indexing and search service | Python |
-
----
-
-## 03 / Technology Stack
+## `$ tech_stack`
 
 <div align="center">
 
-### LANGUAGES
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,ts,java,swift,dart,cpp,cs&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,swift,dart,cs,php&theme=dark" alt="Programming languages" />
 
-### FRAMEWORKS & INTERFACES
+**Frameworks & Development**
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,threejs,flutter,nodejs,dotnet&theme=dark" alt="Frameworks and interfaces" />
+<img src="https://skillicons.dev/icons?i=fastapi,react,threejs,flutter,nodejs&theme=dark" alt="Frameworks and development technologies" />
 
-### DATA & INFRASTRUCTURE
+**Databases & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,git,linux&theme=dark" alt="Databases and development tools" />
 
 </div>
 
-**Additional technologies of interest**
+**Also exploring**
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
----
-
-## 04 / Current Learning Path
-
-| Area | Learning direction |
-|:--|:--|
-| AI engineering | Agentic systems, LLM integration, conversation pipelines |
-| Backend engineering | API design, modular services, system architecture |
-| Application development | Full-stack workflows and cross-platform applications |
-| Real-time systems | Streaming, voice interaction, client-server communication |
-| Software quality | Debugging, testing, security, and maintainability |
-
-*This section represents my learning direction, not a claim of mastery.*
-
----
-
-## 05 / GitHub Analytics
+## `$ github_activity`
 
 <div align="center">
 
-### ACTIVITY OVERVIEW
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=senirualuthge&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senirualuthge&theme=github_dark" alt="GitHub contribution activity overview" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senirualuthge&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub language statistics" />
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=senirualuthge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=22d3ee" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senirualuthge&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Most-used languages" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=senirualuthge&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=senirualuthge&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
----
+## `$ beyond_the_code`
 
-## 06 / Connect
+I'm interested in understanding how technology works, solving challenging problems, exploring new ideas, and continuously improving my engineering skills.
+
+I'm especially interested in connecting with developers, AI enthusiasts, engineers, students, and founders who enjoy learning and building useful things.
+
+I believe meaningful progress comes from consistent learning, experimentation, and the willingness to solve difficult problems.
+
+## `$ connect`
 
 <div align="center">
 
-I'm interested in meeting developers, students, founders, and AI builders who enjoy learning, sharing ideas, and building useful software.
+<a href="https://github.com/senirualuthge"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20profile-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://linkedin.com/in/seniru-aluthge-30bb33188"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 
-<a href="https://github.com/senirualuthge">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
-</a>
+<br />
 
-<br/><br/>
+*Open to learning opportunities, internships, and meaningful collaborations.*
 
-**Have an interesting project idea? Let's build something meaningful.**
+---
 
-<br/>
+**Learn continuously. Build with purpose. Improve relentlessly.**
 
-`CURIOUS BY DESIGN` &nbsp;·&nbsp; `BUILT THROUGH PRACTICE` &nbsp;·&nbsp; `ALWAYS LEARNING`
+<sub>Seniru Aluthge · Sri Lanka</sub>
 
 </div>
-
-<!-- End of README -->
