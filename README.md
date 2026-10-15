@@ -5,7 +5,7 @@
   BANNER SETUP:
   Upload your custom banner to assets/profile-banner.png.
   Then uncomment the banner image below.
-
+ 
   PROJECT SCREENSHOTS:
   Add genuine screenshots to assets/projects/ and update the image paths.
 -->
@@ -35,6 +35,9 @@ Undergraduate student at the Institute of Computer Engineering Technology (ICET)
 </a>
 <a href="https://github.com/senirualuthge?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+<a href="https://www.linkedin.com/in/seniru-aluthge-30bb33188">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
@@ -133,6 +136,9 @@ I'm interested in meeting developers, students, founders, and AI builders who en
 
 <a href="https://github.com/senirualuthge">
   <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/seniru-aluthge-30bb33188">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <br/><br/>
