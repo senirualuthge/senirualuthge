@@ -132,6 +132,27 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 </div>
 
+### LANGUAGE BREAKDOWN
+
+Byte counts across all my repositories, refreshed automatically every week.
+
+<!-- LANG_STATS:START -->
+| Language | Share |
+|:--|--:|
+| JavaScript | 40.0% |
+| Python | 36.4% |
+| TypeScript | 6.5% |
+| HTML | 3.9% |
+| Dart | 3.2% |
+| Java | 2.8% |
+| CSS | 1.9% |
+| Swift | 1.8% |
+| PHP | 1.4% |
+| Other | 2.1% |
+<!-- LANG_STATS:END -->
+
+<sub>Byte share, so vendored and bundled files count too. Generated from the GitHub API, not a third-party card.</sub>
+
 ---
 
 ## 05 / Connect

@@ -1,0 +1,71 @@
+name: Language stats
+
+# Rewrites the table between <!-- LANG_STATS:START --> and <!-- LANG_STATS:END -->
+# in README.md. Only commits when the numbers actually change.
+
+on:
+  schedule:
+    - cron: "17 4 * * 1" # Mondays, 04:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/language_stats.py"
+      - ".github/workflows/language-stats.yml"
+
+# GITHUB_TOKEN stays read-only; the PAT below does the pushing, because this
+# repository's default workflow permissions are read-only.
+permissions:
+  contents: read
+
+concurrency:
+  group: language-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for the stats token
+        id: guard
+        env:
+          TOKEN: ${{ secrets.LANGUAGE_STATS_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::warning title=Language stats skipped::LANGUAGE_STATS_TOKEN is not set. Add a classic PAT with 'repo' scope as a repository secret to enable weekly refreshes."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check out
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.LANGUAGE_STATS_TOKEN }}
+
+      - name: Set up Python
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rewrite the language section
+        if: steps.guard.outputs.run == 'true'
+        env:
+          LANGUAGE_STATS_TOKEN: ${{ secrets.LANGUAGE_STATS_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/language_stats.py --write --min-share 1
+
+      - name: Commit if changed
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README already up to date."
+            exit 0
+          fi
+          git config user.name "senirualuthge"
+          git config user.email "senirualuthge@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh language breakdown"
+          git push origin HEAD:main
