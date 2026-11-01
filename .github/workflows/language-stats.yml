@@ -40,13 +40,13 @@ jobs:
 
       - name: Check out
         if: steps.guard.outputs.run == 'true'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           token: ${{ secrets.LANGUAGE_STATS_TOKEN }}
 
       - name: Set up Python
         if: steps.guard.outputs.run == 'true'
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
