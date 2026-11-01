@@ -119,12 +119,10 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 
  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senirualuthge&theme=github_dark" alt="GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=senirualuthge&theme=github_dark" alt="Most-used languages" /> 
+
 <br>
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=senirualuthge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=22d3ee" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senirualuthge&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Most-used languages" /> -->
 
 <br/><br/>
 
@@ -134,29 +132,6 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 ### LANGUAGE BREAKDOWN
 
-<!-- LANG_STATS:START -->
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-pie showData title Language breakdown
-    "JavaScript" : 40.0
-    "Python" : 36.4
-    "TypeScript" : 6.5
-    "HTML" : 3.9
-    "Dart" : 3.2
-    "Java" : 2.8
-    "Other" : 7.2
-```
-
-| Language | Share |
-|:--|--:|
-| JavaScript | 40.0% |
-| Python | 36.4% |
-| TypeScript | 6.5% |
-| HTML | 3.9% |
-| Dart | 3.2% |
-| Java | 2.8% |
-| Other | 7.2% |
-<!-- LANG_STATS:END -->
 
 ---
 
