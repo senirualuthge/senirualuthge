@@ -120,6 +120,13 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crazysenuuu&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Most-used languages" /> -->
 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senirualuthge&theme=github_dark" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=senirualuthge&theme=github_dark" alt="Most-used languages" />
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=senirualuthge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=22d3ee" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senirualuthge&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Most-used languages" />
+
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=senirualuthge&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
