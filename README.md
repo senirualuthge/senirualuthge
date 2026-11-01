@@ -116,9 +116,9 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Crazysenuuu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=22d3ee" alt="GitHub statistics" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Crazysenuuu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=22d3ee" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crazysenuuu&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Most-used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crazysenuuu&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Most-used languages" /> -->
 
 <br/><br/>
 
