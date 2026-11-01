@@ -55,7 +55,7 @@ jobs:
         env:
           LANGUAGE_STATS_TOKEN: ${{ secrets.LANGUAGE_STATS_TOKEN }}
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-        run: python3 .github/scripts/language_stats.py --write --min-share 1
+        run: python3 .github/scripts/language_stats.py --write --min-share 2
 
       - name: Commit if changed
         if: steps.guard.outputs.run == 'true'

@@ -134,8 +134,19 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 ### LANGUAGE BREAKDOWN
 
-
 <!-- LANG_STATS:START -->
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+pie showData title Language breakdown
+    "JavaScript" : 40.0
+    "Python" : 36.4
+    "TypeScript" : 6.5
+    "HTML" : 3.9
+    "Dart" : 3.2
+    "Java" : 2.8
+    "Other" : 7.2
+```
+
 | Language | Share |
 |:--|--:|
 | JavaScript | 40.0% |
@@ -144,12 +155,8 @@ I believe the best way to learn software engineering is to build, test, debug, a
 | HTML | 3.9% |
 | Dart | 3.2% |
 | Java | 2.8% |
-| CSS | 1.9% |
-| Swift | 1.8% |
-| PHP | 1.4% |
-| Other | 2.1% |
+| Other | 7.2% |
 <!-- LANG_STATS:END -->
-
 
 ---
 

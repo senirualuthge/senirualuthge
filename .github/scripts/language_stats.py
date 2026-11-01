@@ -219,28 +219,89 @@ def fold(totals: dict[str, int], min_share: float) -> dict[str, int]:
     return kept
 
 
-def render(totals: dict[str, int], min_share: float, show_bytes: bool) -> str:
-    if not totals:
-        raise SystemExit("no language data found for this account")
-
-    data = fold(totals, min_share)
-    percent = shares(data)
+def order(data: dict[str, int]) -> list[str]:
+    """Descending by size, with the Other bucket pinned to the end."""
     ordered = sorted(data, key=data.get, reverse=True)
     if OTHER_LABEL in ordered:
         ordered.remove(OTHER_LABEL)
         ordered.append(OTHER_LABEL)
+    return ordered
 
+
+# Mermaid's pie parser treats `"` as a terminator and `#` as an entity escape,
+# so label text is normalised rather than interpolated raw.
+LABEL_ALIASES = {"C#": "C Sharp", "F#": "F Sharp"}
+
+
+def mermaid_label(lang: str) -> str:
+    text = LABEL_ALIASES.get(lang, lang)
+    return text.replace('"', "'").replace("\n", " ").strip()
+
+
+def pie_block(
+    totals: dict[str, int],
+    min_share: float,
+    colors: list[str] | None = None,
+) -> str:
+    """A mermaid pie chart; GitHub renders these natively, no service involved."""
+    data = fold(totals, min_share)
+    percent = shares(data)
+
+    lines = ["```mermaid"]
+    if colors:
+        palette = {
+            f"pie{index}": color for index, color in enumerate(colors[:12], start=1)
+        }
+        variables = ", ".join(f"'{key}': '{value}'" for key, value in palette.items())
+        lines.append(
+            "%%{init: {'theme': 'dark', 'themeVariables': {" + variables + "}}}%%"
+        )
+    else:
+        lines.append("%%{init: {'theme': 'dark'}}%%")
+
+    lines.append("pie showData title Language breakdown")
+    lines.extend(
+        f'    "{mermaid_label(lang)}" : {percent[lang]:.1f}' for lang in order(data)
+    )
+    lines.append("```")
+    return "\n".join(lines)
+
+
+def table_block(
+    data: dict[str, int], percent: dict[str, float], show_bytes: bool
+) -> str:
     header = "| Language | Share |" if not show_bytes else "| Language | Share | Bytes |"
     divider = "|:--|--:|" if not show_bytes else "|:--|--:|--:|"
     rows = [header, divider]
 
-    for lang in ordered:
+    for lang in order(data):
         cells = [lang, f"{percent[lang]:.1f}%"]
         if show_bytes:
             cells.append(f"{data[lang]:,}")
         rows.append("| " + " | ".join(cells) + " |")
 
     return "\n".join(rows)
+
+
+def render(
+    totals: dict[str, int],
+    min_share: float,
+    show_bytes: bool,
+    pie: bool = True,
+    pie_min_share: float = 2.0,
+    pie_colors: list[str] | None = None,
+) -> str:
+    if not totals:
+        raise SystemExit("no language data found for this account")
+
+    data = fold(totals, min_share)
+    blocks: list[str] = []
+
+    if pie:
+        blocks.append(pie_block(totals, pie_min_share, pie_colors))
+    blocks.append(table_block(data, shares(data), show_bytes))
+
+    return "\n\n".join(blocks)
 
 
 def splice(readme: str, block: str, path: str) -> str:
@@ -275,6 +336,19 @@ def main() -> int:
         help="fold languages under this percent into 'Other' (default: show all)",
     )
     parser.add_argument("--bytes", action="store_true", help="add a Bytes column")
+    parser.add_argument("--no-pie", action="store_true", help="table only, no mermaid chart")
+    parser.add_argument(
+        "--pie-min-share",
+        type=float,
+        default=2.0,
+        metavar="PCT",
+        help="fold chart slices under this percent into 'Other' (default: 2.0)",
+    )
+    parser.add_argument(
+        "--pie-colors",
+        metavar="HEX,...",
+        help="comma-separated hex colours for pie1..pie12, e.g. '#7C3AED,#22D3EE'",
+    )
     parser.add_argument("--readme", default="README.md")
     parser.add_argument("--write", action="store_true", help="splice into --readme")
     parser.add_argument("--check", action="store_true", help="exit 1 if --readme is stale")
@@ -286,7 +360,19 @@ def main() -> int:
     print(f"collecting language bytes for {login} (scope: {scope})", file=sys.stderr)
 
     totals = collect(login, token, scope, args.affiliation, args.include_forks)
-    table = render(totals, args.min_share, args.bytes)
+    colors = (
+        [color.strip() for color in args.pie_colors.split(",") if color.strip()]
+        if args.pie_colors
+        else None
+    )
+    table = render(
+        totals,
+        args.min_share,
+        args.bytes,
+        pie=not args.no_pie,
+        pie_min_share=args.pie_min_share,
+        pie_colors=colors,
+    )
 
     if not (args.write or args.check):
         print(table)
