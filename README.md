@@ -134,7 +134,6 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 ### LANGUAGE BREAKDOWN
 
-Byte counts across all my repositories, refreshed automatically every week.
 
 <!-- LANG_STATS:START -->
 | Language | Share |
@@ -151,7 +150,6 @@ Byte counts across all my repositories, refreshed automatically every week.
 | Other | 2.1% |
 <!-- LANG_STATS:END -->
 
-<sub>Byte share, so vendored and bundled files count too. Generated from the GitHub API, not a third-party card.</sub>
 
 ---
 
