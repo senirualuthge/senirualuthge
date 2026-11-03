@@ -93,7 +93,7 @@ def languages_svg(u):
             n = e["node"]["name"]
             totals[n] = totals.get(n, 0) + e["size"]
             colors[n] = e["node"]["color"] or VIOLET
-    top = sorted(totals.items(), key=lambda kv: -kv[1])[:6]
+    top = sorted(totals.items(), key=lambda kv: -kv[1])[:10]
     s = sum(v for _, v in top) or 1
     W, H = 800, 60 + 28 * len(top) + 20
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Language breakdown">',
