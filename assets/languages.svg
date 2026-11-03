@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="248" viewBox="0 0 800 248" role="img" aria-label="Language breakdown">
+<rect width="800" height="248" rx="12" fill="#0D1117" stroke="#30363D"/>
+<text x="28" y="38" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Languages across public repositories</text>
+<text x="28" y="74" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">JavaScript</text>
+<rect x="150" y="64" width="540" height="12" rx="6" fill="#30363D"/>
+<rect x="150" y="64" width="236.8" height="12" rx="6" fill="#f1e05a"/>
+<text x="772" y="74" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">43.8%</text>
+<text x="28" y="102" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">Python</text>
+<rect x="150" y="92" width="540" height="12" rx="6" fill="#30363D"/>
+<rect x="150" y="92" width="215.8" height="12" rx="6" fill="#3572A5"/>
+<text x="772" y="102" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">40.0%</text>
+<text x="28" y="130" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">TypeScript</text>
+<rect x="150" y="120" width="540" height="12" rx="6" fill="#30363D"/>
+<rect x="150" y="120" width="34.1" height="12" rx="6" fill="#3178c6"/>
+<text x="772" y="130" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">6.3%</text>
+<text x="28" y="158" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">Java</text>
+<rect x="150" y="148" width="540" height="12" rx="6" fill="#30363D"/>
+<rect x="150" y="148" width="19.5" height="12" rx="6" fill="#b07219"/>
+<text x="772" y="158" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">3.6%</text>
+<text x="28" y="186" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">Dart</text>
+<rect x="150" y="176" width="540" height="12" rx="6" fill="#30363D"/>
+<rect x="150" y="176" width="18.9" height="12" rx="6" fill="#00B4AB"/>
+<text x="772" y="186" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">3.5%</text>
+<text x="28" y="214" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">HTML</text>
+<rect x="150" y="204" width="540" height="12" rx="6" fill="#30363D"/>
+<rect x="150" y="204" width="14.8" height="12" rx="6" fill="#e34c26"/>
+<text x="772" y="214" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">2.7%</text>
+</svg>
