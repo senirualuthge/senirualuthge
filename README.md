@@ -106,30 +106,17 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 ---
 
-## 04 / GitHub Analytics
+### 04 / GitHub Analytics
 
 <div align="center">
 
-### ACTIVITY OVERVIEW
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senirualuthge&theme=github_dark" alt="GitHub contribution activity overview" />
-
-<br/>
-
-
-
- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senirualuthge&theme=github_dark" alt="GitHub statistics" />
-
-<br>
-
-
+<img width="100%" src="assets/activity.svg" alt="GitHub activity overview" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=senirualuthge&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+<img width="100%" src="assets/languages.svg" alt="Language breakdown across public repositories" />
 
 </div>
-
 ### LANGUAGE BREAKDOWN
 
 
