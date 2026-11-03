@@ -106,7 +106,7 @@ I believe the best way to learn software engineering is to build, test, debug, a
 
 ---
 
-### 04 / GitHub Analytics
+## 04 / GitHub Analytics
 
 <div align="center">
 
@@ -117,11 +117,8 @@ I believe the best way to learn software engineering is to build, test, debug, a
 <img width="100%" src="assets/languages.svg" alt="Language breakdown across public repositories" />
 
 </div>
-### LANGUAGE BREAKDOWN
-
 
 ---
-
 ## 05 / Connect
 
 <div align="center">
