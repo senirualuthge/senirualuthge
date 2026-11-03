@@ -16,7 +16,7 @@ query($login:String!){ user(login:$login){
   }
   repositories(ownerAffiliations:OWNER, isFork:false, privacy:PUBLIC, first:100){
     totalCount
-    nodes{ languages(first:5, orderBy:{field:SIZE,direction:DESC}){ edges{ size node{ name color } } } }
+    nodes{ languages(first:10, orderBy:{field:SIZE,direction:DESC}){ edges{ size node{ name color } } } }
   }
 }}"""
 
