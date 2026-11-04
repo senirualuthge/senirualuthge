@@ -3,12 +3,12 @@
 <text x="28" y="38" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Languages across public repositories</text>
 <text x="28" y="74" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">JavaScript</text>
 <rect x="150" y="64" width="540" height="12" rx="6" fill="#30363D"/>
-<rect x="150" y="64" width="221.3" height="12" rx="6" fill="#f1e05a"/>
+<rect x="150" y="64" width="221.4" height="12" rx="6" fill="#f1e05a"/>
 <text x="772" y="74" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">41.0%</text>
 <text x="28" y="102" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">Python</text>
 <rect x="150" y="92" width="540" height="12" rx="6" fill="#30363D"/>
 <rect x="150" y="92" width="201.7" height="12" rx="6" fill="#3572A5"/>
-<text x="772" y="102" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">37.4%</text>
+<text x="772" y="102" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">37.3%</text>
 <text x="28" y="130" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">TypeScript</text>
 <rect x="150" y="120" width="540" height="12" rx="6" fill="#30363D"/>
 <rect x="150" y="120" width="33.6" height="12" rx="6" fill="#3178c6"/>
