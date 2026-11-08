@@ -1,145 +1,113 @@
-<!--
-  SENIRU ALUTHGE — GITHUB PROFILE README
-  Repository: senirualuthge/senirualuthge
-
-  BANNER SETUP:
-  Upload your custom banner to assets/profile-banner.png.
-  Then uncomment the banner image below.
- 
-  PROJECT SCREENSHOTS:
-  Add genuine screenshots to assets/projects/ and update the image paths.
--->
-
 <div align="center">
 
-<!-- Uncomment after uploading assets/profile-banner.png -->
-<!-- <img src="assets/profile-banner.png" width="100%" alt="Seniru Aluthge — Developer Portfolio Banner" /> -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=7C3AED" width="100%" alt="" />
-
-<br/>
-
-# SENIRU ALUTHGE
-
-### `FULL-STACK DEVELOPMENT` · `AI SYSTEMS` · `SOFTWARE ENGINEERING`
-
-
-**Building ideas into software. Exploring the systems behind intelligence.**
-
-Undergraduate student at the Institute of Computer Engineering Technology (ICET), Sri Lanka.
-
-<br/>
-
-<a href="https://github.com/senirualuthge">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://github.com/senirualuthge?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-<a href="https://www.linkedin.com/in/seniru-aluthge-30bb33188">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-`LEARN` &nbsp; / &nbsp; `BUILD` &nbsp; / &nbsp; `EXPERIMENT` &nbsp; / &nbsp; `IMPROVE`
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · senirualuthge</sub></p>
+<h1>CS</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Sri-Lanka,Colombo</sub></p>
+<p><a href="https://github.com/senirualuthge">GitHub</a> &nbsp;·&nbsp; <a href="https://seniru-portfolio.vercel.app/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/126966673?u=5ebbde914439d221b3a3ff1b07973eed6cd8bea9&amp;v=4" width="180" alt="CS GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## 01 / About Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Java · PHP · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>376 contributions · 64 active days</p></td>
+</tr>
+</table>
 
-I'm an undergraduate developer interested in building practical software, exploring AI systems, and understanding how complex applications work under the hood.
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-My approach is simple: learn the fundamentals, experiment with real projects, solve problems, and improve through implementation.
+<h2>Proof at a glance</h2>
 
-- **Focus:** Full-stack development, AI systems, and backend engineering
-- **Exploring:** Agentic AI, conversational intelligence, and real-time applications
-- **Building:** Independent software projects across AI and business SaaS
-- **Interested in:** System architecture, developer tools, and practical problem-solving
-- **Open to:** Internships, freelance work, and collaboration on AI and backend projects
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>376</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-I believe the best way to learn software engineering is to build, test, debug, and continuously improve real systems.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="CS GitHub proof metrics" />
+</picture>
+</p>
 
----
+<h2>Selected work</h2>
 
-## 02 / Technology Stack
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&repos=senirualuthge%2FTuktuk&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&repos=senirualuthge%2FTuktuk&v=recruiter-projects-1&mode=dark" width="100%" alt="CS selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/senirualuthge/Tuktuk">Tuktuk</a></h3>
+<p>A user-friendly vehicle rental platform that simplifies vehicle discovery and booking, saves time, streamlines customer inquiries, and helps administr</p>
+<p><sub>PHP · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/senirualuthge/Tuktuk">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<div align="center">
+<table width="100%">
+<tr>
 
-### LANGUAGES
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,php,cs,html&theme=dark" alt="Programming languages" />
+<h2>Technical toolkit</h2>
 
-### FRAMEWORKS & INTERFACES
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="CS technology stack" />
+</picture>
+</p>
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,threejs,flutter,nodejs,dotnet&theme=dark" alt="Frameworks and interfaces" />
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>44% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>15% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>7% of public code</sub></td>
+</tr>
+</table>
 
-### DATA & INFRASTRUCTURE
+<h2>Consistency signal</h2>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,git,linux&theme=dark" alt="Databases and development tools" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="CS contribution activity" />
+</picture>
+</p>
 
-</div>
+<hr />
 
-**Additional technologies of interest**
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/senirualuthge">GitHub</a><br /><a href="https://seniru-portfolio.vercel.app/">Website</a></td>
+</tr>
+</table>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
----
-
-## 03 / Current Learning Path
-
-| Area | Learning direction |
-|:--|:--|
-| AI engineering | Agentic systems, LLM integration, conversation pipelines |
-| Backend engineering | API design, modular services, system architecture |
-| Application development | Full-stack workflows and cross-platform applications |
-| Real-time systems | Streaming, voice interaction, client-server communication |
-| Software quality | Debugging, testing, security, and maintainability |
-
-*This section represents my learning direction, not a claim of mastery.*
-
----
-
-## 04 / GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="assets/activity.svg" alt="GitHub activity overview" />
-
-<br/><br/>
-
-<img width="100%" src="assets/languages.svg" alt="Language breakdown across public repositories" />
-
-</div>
-
----
-## 05 / Connect
-
-<div align="center">
-
-I'm interested in meeting developers, students, founders, and AI builders who enjoy learning, sharing ideas, and building useful software.
-
-<a href="https://github.com/senirualuthge">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/seniru-aluthge-30bb33188">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-
-<br/><br/>
-
-**Have an interesting project idea? Let's build something meaningful.**
-
-<br/>
-
-`CURIOUS BY DESIGN` &nbsp; · &nbsp; `BUILT THROUGH PRACTICE` &nbsp; · &nbsp; `ALWAYS LEARNING`
-
-</div>
-
-<!-- End of README -->
+<p align="center"><sub>CS · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
