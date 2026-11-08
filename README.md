@@ -5,7 +5,7 @@
 <h1>Seniru Aluthge</h1>
 
 <a href="https://github.com/senirualuthge">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-stack+engineer;AI+agents+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Flutter;3D+web+experiences+with+Three.js;Building+in+public+from+Colombo%2C+Sri+Lanka" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-stack+Developer;AI+agents+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Flutter;3D+web+experiences+with+Three.js;Building+in+public+from+Colombo%2C+Sri+Lanka" alt="Typing intro" />
 </a>
 
 <p>
@@ -38,64 +38,8 @@ I build AI-powered products end to end: the Python backend, the web or mobile cl
   <img src="https://www.gitskins.com/api/section/stats?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="GitHub stats" />
 </picture>
 </p>
-
-## Selected work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🧠 Aariya (AI Girl)</h3>
-<p>Autonomous multi-agent AI platform with a FastAPI cognitive backend, a React/Three.js 3D avatar, a Flutter mobile client and a real-time voice pipeline (VAD → Whisper ASR → ElevenLabs TTS → lip sync).</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>🧑‍💼 HUMANA</h3>
-<p>SaaS platform that puts AI-powered digital human employees on business websites, with a landing page, a FastAPI WebSocket backend and a dashboard for business owners.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>⚽ <a href="https://github.com/senirualuthge/FiFA-Score-Widget">FiFA-Score-Widget</a></h3>
-<p>iOS app and home-screen widget showing FIFA World Cup live scores, fixtures and group standings from football-data.org, with data shared to the widget through an App Group.</p>
-<p>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/WidgetKit-000000?style=flat-square&logo=apple&logoColor=white" />
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>🌌 <a href="https://seniru-portfolio.vercel.app/">Portfolio (SENIRU.OS)</a></h3>
-<p>Interactive developer portfolio with cinematic scroll animation, adaptive section themes and a scroll-driven 3D tech-stack tunnel.</p>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-</p>
-</td>
-</tr>
-</table>
-
+<br>
 ## Technical toolkit
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Technology stack" />
-</picture>
-</p>
 
 <table width="100%">
 <tr><td width="18%"><strong>Languages</strong></td><td>
@@ -118,15 +62,6 @@ I build AI-powered products end to end: the Python backend, the web or mobile cl
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </td></tr>
 </table>
-
-## Consistency signal
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Contribution activity" />
-</picture>
-</p>
 
 ---
 
