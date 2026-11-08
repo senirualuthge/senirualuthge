@@ -1,53 +1,140 @@
 <div align="center">
-<p><sub>senirualuthge</sub></p>
-<h1>Seniru Aluthge</h1>
-<h2>full-stack engineer</h2>
-<p>Building AI-powered products, mobile apps and 3D web experiences, and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Colombo, Sri Lanka · Studying at ICET</sub></p>
 
-<img src="https://avatars.githubusercontent.com/u/126966673?u=5ebbde914439d221b3a3ff1b07973eed6cd8bea9&amp;v=4" width="180" alt="Seniru Aluthge GitHub avatar" />
+<img src="https://avatars.githubusercontent.com/u/126966673?u=5ebbde914439d221b3a3ff1b07973eed6cd8bea9&amp;v=4" width="140" alt="Seniru Aluthge" style="border-radius:50%" />
+
+<h1>Seniru Aluthge</h1>
+
+<a href="https://github.com/senirualuthge">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full-stack+engineer;AI+agents+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Flutter;3D+web+experiences+with+Three.js;Building+in+public+from+Colombo%2C+Sri+Lanka" alt="Typing intro" />
+</a>
+
+<p>
+  <a href="https://seniru-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/seniru-aluthge-30bb33188"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/senirualuthge"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<sub>Based in Colombo, Sri Lanka · Studying at ICET · Open to thoughtful teams and ambitious products</sub>
 
 </div>
 
+---
 
+## About
 
+I build AI-powered products end to end: the Python backend, the web or mobile client, and the interface people actually touch. I like projects where voice, real-time data and 3D meet useful engineering.
 
+- 🤖 Building **Aariya**, an autonomous multi-agent AI platform with a real-time voice pipeline
+- 🧑‍💼 Building **HUMANA**, AI digital human employees for business websites
+- 📱 Shipped an iOS World Cup widget app in SwiftUI and WidgetKit
+- 🌌 Designing my interactive 3D portfolio with React, Three.js and GSAP
+- 🎓 Studying software engineering at ICET (Java, SQL and databases)
 
-<!-- Update these numbers from your GitHub profile, or keep the GitSkins image below -->
-
+## GitHub at a glance
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Seniru Aluthge GitHub proof metrics" />
+  <img src="https://www.gitskins.com/api/section/stats?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="GitHub stats" />
 </picture>
 </p>
+
+## Selected work
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>Aariya (AI Girl)</h3>
-<p>An autonomous multi-agent AI platform: FastAPI cognitive backend, React/Three.js 3D avatar, Flutter mobile client and a real-time voice pipeline (VAD → Whisper ASR → ElevenLabs TTS → lip sync).</p>
-<p><sub>Python · FastAPI · React · Three.js · Flutter</sub></p>
+<h3>🧠 Aariya (AI Girl)</h3>
+<p>Autonomous multi-agent AI platform with a FastAPI cognitive backend, a React/Three.js 3D avatar, a Flutter mobile client and a real-time voice pipeline (VAD → Whisper ASR → ElevenLabs TTS → lip sync).</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
 </td>
 <td width="50%" valign="top">
-<h3>HUMANA</h3>
-<p>A SaaS platform that puts AI-powered digital human employees on business websites, with a landing page, FastAPI WebSocket backend and owner dashboard.</p>
-<p><sub>Python · FastAPI · WebSockets · React</sub></p>
+<h3>🧑‍💼 HUMANA</h3>
+<p>SaaS platform that puts AI-powered digital human employees on business websites, with a landing page, a FastAPI WebSocket backend and a dashboard for business owners.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚽ <a href="https://github.com/senirualuthge/FiFA-Score-Widget">FiFA-Score-Widget</a></h3>
+<p>iOS app and home-screen widget showing FIFA World Cup live scores, fixtures and group standings from football-data.org, with data shared to the widget through an App Group.</p>
+<p>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/WidgetKit-000000?style=flat-square&logo=apple&logoColor=white" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>🌌 <a href="https://seniru-portfolio.vercel.app/">Portfolio (SENIRU.OS)</a></h3>
+<p>Interactive developer portfolio with cinematic scroll animation, adaptive section themes and a scroll-driven 3D tech-stack tunnel.</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+</p>
 </td>
 </tr>
 </table>
 
-<h2>Technical toolkit</h2>
+## Technical toolkit
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Seniru Aluthge technology stack" />
+  <img src="https://www.gitskins.com/api/section/stack?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Technology stack" />
 </picture>
 </p>
 
-<hr />
+<table width="100%">
+<tr><td width="18%"><strong>Languages</strong></td><td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</td></tr>
+<tr><td><strong>Frontend &amp; mobile</strong></td><td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+</td></tr>
+<tr><td><strong>Backend &amp; data</strong></td><td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</td></tr>
+</table>
 
+## Consistency signal
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Contribution activity" />
+</picture>
+</p>
+
+---
+
+<div align="center">
+
+### Let’s talk about the next build
+
+<a href="https://linkedin.com/in/seniru-aluthge-30bb33188"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://seniru-portfolio.vercel.app/"><img src="https://img.shields.io/badge/See_my_portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+</div>
