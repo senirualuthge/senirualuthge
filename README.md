@@ -65,11 +65,3 @@ I build AI-powered products end to end: the Python backend, the web or mobile cl
 
 ---
 
-<div align="center">
-
-### Let’s talk about the next build
-
-<a href="https://linkedin.com/in/seniru-aluthge-30bb33188"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://seniru-portfolio.vercel.app/"><img src="https://img.shields.io/badge/See_my_portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
-</div>
