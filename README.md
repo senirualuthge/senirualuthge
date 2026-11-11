@@ -40,6 +40,9 @@ I build AI-powered products end to end: the Python backend, the web or mobile cl
 </p>
 <br>
 ## Technical toolkit
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=senirualuthge&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub streak" />
+</p>
 
 <table width="100%">
 <tr><td width="18%"><strong>Languages</strong></td><td>
