@@ -9,12 +9,19 @@
 </a>
 
 <p>
-  <a href="https://seniru-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://seniru-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/seniru-a-30bb33188/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/senirualuthge" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <sub>Based in Colombo, Sri Lanka · Studying at ICET · Open to thoughtful teams and ambitious products</sub>
+
+<p>
+  <a href="#about">About</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#github-at-a-glance">Stats</a> ·
+  <a href="#technical-toolkit">Toolkit</a>
+</p>
 
 </div>
 
@@ -24,11 +31,75 @@
 
 I build AI-powered products end to end: the Python backend, the web or mobile client, and the interface people actually touch. I like projects where voice, real-time data and 3D meet useful engineering.
 
-- 🤖 Building **Aariya**, an autonomous multi-agent AI platform with a real-time voice pipeline
-- 🧑‍💼 Building **HUMANA**, AI digital human employees for business websites
-- 📱 Shipped an iOS World Cup widget app in SwiftUI and WidgetKit
-- 🌌 Designing my interactive 3D portfolio with React, Three.js and GSAP
-- 🎓 Studying software engineering at ICET (Java, SQL and databases)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Currently building**
+- 🤖 **Aariya**: autonomous multi-agent AI platform
+- 🧑‍💼 **HUMANA**: AI digital employees for business sites
+- 🌌 **3D portfolio**: React, Three.js and GSAP
+
+</td>
+<td width="50%" valign="top">
+
+**Shipped and studying**
+- 📱 iOS World Cup widget app (SwiftUI, WidgetKit)
+- 🎓 Software engineering at ICET
+- 📚 Java, SQL and databases
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Aariya
+Autonomous multi-agent AI platform with a real-time voice pipeline.
+
+`Python` `FastAPI` `Voice` `Agents`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍💼 HUMANA
+SaaS platform for AI digital human employees on business websites.
+
+`React` `FastAPI` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 FiFA Score Widget
+iOS World Cup scores app with a home-screen widget.
+
+`Swift` `SwiftUI` `WidgetKit`
+
+[View repository →](https://github.com/senirualuthge/FiFA-Score-Widget)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 Interactive 3D Portfolio
+Personal site with 3D scenes and scroll-driven animation.
+
+`React` `Three.js` `GSAP`
+
+[Visit site →](https://seniru-portfolio.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## GitHub at a glance
 
@@ -38,11 +109,14 @@ I build AI-powered products end to end: the Python backend, the web or mobile cl
   <img src="https://www.gitskins.com/api/section/stats?username=senirualuthge&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126966673%3Fu%3D5ebbde914439d221b3a3ff1b07973eed6cd8bea9%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="GitHub stats" />
 </picture>
 </p>
-<br>
-## Technical toolkit
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=senirualuthge&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub streak" />
 </p>
+
+---
+
+## Technical toolkit
 
 <table width="100%">
 <tr><td width="18%"><strong>Languages</strong></td><td>
@@ -68,3 +142,9 @@ I build AI-powered products end to end: the Python backend, the web or mobile cl
 
 ---
 
+## Connect
+
+<p align="center">
+  <a href="https://seniru-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/seniru-a-30bb33188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
