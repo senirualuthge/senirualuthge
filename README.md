@@ -94,6 +94,6 @@
 
   <i>Learning continuously. Building intentionally. Shipping in public.</i>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:087EAA,50:302060,100:09090F&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:087EAA,50:302060,100:09090F&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=FFFFFF&fontAlignY=65&desc=Let%27s%20build%20something%20great%20together&descSize=13&descAlignY=82" width="100%" />
 
 </div>
