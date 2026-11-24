@@ -3,35 +3,35 @@
 <text x="28" y="38" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Languages across public repositories</text>
 <text x="28" y="74" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">JavaScript</text>
 <rect x="150" y="64" width="540" height="12" rx="6" fill="#30363D"/>
-<rect x="150" y="64" width="223.1" height="12" rx="6" fill="#f1e05a"/>
+<rect x="150" y="64" width="223.0" height="12" rx="6" fill="#f1e05a"/>
 <text x="772" y="74" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">41.3%</text>
 <text x="28" y="102" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">Python</text>
 <rect x="150" y="92" width="540" height="12" rx="6" fill="#30363D"/>
-<rect x="150" y="92" width="215.0" height="12" rx="6" fill="#3572A5"/>
-<text x="772" y="102" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">39.8%</text>
+<rect x="150" y="92" width="214.2" height="12" rx="6" fill="#3572A5"/>
+<text x="772" y="102" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">39.7%</text>
 <text x="28" y="130" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">TypeScript</text>
 <rect x="150" y="120" width="540" height="12" rx="6" fill="#30363D"/>
-<rect x="150" y="120" width="34.0" height="12" rx="6" fill="#3178c6"/>
+<rect x="150" y="120" width="33.8" height="12" rx="6" fill="#3178c6"/>
 <text x="772" y="130" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">6.3%</text>
 <text x="28" y="158" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">Dart</text>
 <rect x="150" y="148" width="540" height="12" rx="6" fill="#30363D"/>
-<rect x="150" y="148" width="19.6" height="12" rx="6" fill="#00B4AB"/>
-<text x="772" y="158" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">3.6%</text>
+<rect x="150" y="148" width="20.1" height="12" rx="6" fill="#00B4AB"/>
+<text x="772" y="158" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">3.7%</text>
 <text x="28" y="186" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">HTML</text>
 <rect x="150" y="176" width="540" height="12" rx="6" fill="#30363D"/>
-<rect x="150" y="176" width="13.8" height="12" rx="6" fill="#e34c26"/>
+<rect x="150" y="176" width="14.0" height="12" rx="6" fill="#e34c26"/>
 <text x="772" y="186" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">2.6%</text>
 <text x="28" y="214" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">Swift</text>
 <rect x="150" y="204" width="540" height="12" rx="6" fill="#30363D"/>
-<rect x="150" y="204" width="10.1" height="12" rx="6" fill="#F05138"/>
+<rect x="150" y="204" width="10.0" height="12" rx="6" fill="#F05138"/>
 <text x="772" y="214" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">1.9%</text>
 <text x="28" y="242" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">CSS</text>
 <rect x="150" y="232" width="540" height="12" rx="6" fill="#30363D"/>
-<rect x="150" y="232" width="8.6" height="12" rx="6" fill="#663399"/>
-<text x="772" y="242" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">1.6%</text>
+<rect x="150" y="232" width="9.0" height="12" rx="6" fill="#663399"/>
+<text x="772" y="242" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">1.7%</text>
 <text x="28" y="270" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">PHP</text>
 <rect x="150" y="260" width="540" height="12" rx="6" fill="#30363D"/>
-<rect x="150" y="260" width="7.8" height="12" rx="6" fill="#4F5D95"/>
+<rect x="150" y="260" width="7.7" height="12" rx="6" fill="#4F5D95"/>
 <text x="772" y="270" text-anchor="end" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">1.4%</text>
 <text x="28" y="298" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#FFFFFF">Shell</text>
 <rect x="150" y="288" width="540" height="12" rx="6" fill="#30363D"/>
